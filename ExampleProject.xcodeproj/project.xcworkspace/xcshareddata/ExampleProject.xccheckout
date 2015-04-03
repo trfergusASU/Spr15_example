@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>160FF08B-2546-4FE2-9241-F8713735E4DF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ExampleProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B3D056F4396A4A58C413E407DA7A87B03956D98C</key>
+		<string>https://github.com/SethHeywood/Spr15_example.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ExampleProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B3D056F4396A4A58C413E407DA7A87B03956D98C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SethHeywood/Spr15_example.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B3D056F4396A4A58C413E407DA7A87B03956D98C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B3D056F4396A4A58C413E407DA7A87B03956D98C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Spr15_example</string>
+		</dict>
+	</array>
+</dict>
+</plist>

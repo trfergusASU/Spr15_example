@@ -19,7 +19,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    self.nameList = @[@"Christophe",@"John",@"Michael Welker",@"Ted"];
+    self.nameList = @[@"Christophe",@"John",@"Michael Welker",@"Ted", @"Seth Heywood"];
 }
 
 - (void)didReceiveMemoryWarning {
